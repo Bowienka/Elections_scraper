@@ -2,8 +2,7 @@
 # ELECTIONS SCRAPER
 
 ## Popis projektu
-Tento program slouží k získávání volebních dat z parlamentních voleb 2017 a jejich uložení v podobě tabulky do CSV souboru. Odkaz na zdrojovou stránku [zde](https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ). Skript využívá knihovny requests pro stahování webových stránek a knihovny BeautifulSoup pro parsování HTML obsahu.
-
+Tento program slouží k získávání volebních dat z parlamentních voleb 2017 a jejich uložení v podobě tabulky do CSV souboru. Odkaz na zdrojovou stránku [zde](https://volby.cz/pls/ps2017nss/ps3?xjazyk=CZ). 
 ## Instalace knihoven
 V kódu jsou použity knihovny requests pro stahování webových stránek a knihovny BeautifulSoup pro parsování HTML obsahu. Tyto knihovny lze nainstalovat ze souboru ```requirements.txt``` pomocí následujících příkazů:
 ```ruby
