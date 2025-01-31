@@ -1,8 +1,5 @@
 """
-projekt_3.py: treti projekt do Engeto Online Python Akademie
 author: Helena Vyplelová
-email: vyplelhel@seznam.cz
-discord: Helena V. /.helenav.
 """
 
 import sys
