@@ -41,5 +41,3 @@ Extrahovaná data se následně uloží do souboru s příponou `.csv`.
 Pokud máte nějaké dotazy, nápady nebo připomínky k tomuto skriptu, neváhejte kontaktovat autora:
 
 - **Autor:** Helena Vyplelová
-- **E-mail:** vyplelhel@seznam.cz
-- **Discord:** Helena V. /.helenav. Tato funkce 
